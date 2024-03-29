@@ -21,7 +21,7 @@
 
         // Function to add a new task
         function addTask() {
-            let taskInput = document.getElementById("taskInput");
+            let taskInput = document.getElementById("taskInput bghshgsyuyysuyh bjhsjh");
             let taskName = taskInput.value.trim();
             if (taskName !== "") {
                 tasks.push({ name: taskName, completed: false });
